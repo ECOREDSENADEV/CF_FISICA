@@ -114,7 +114,7 @@
         .row.justify-content-center
           .col-lg-8
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 1
+              h5 Tabla 1.
               span Magnitudes físicas fundamentales del Sistema Internacional (SI)
             .tabla-a.color-acento-contenido.pst-3
               table
@@ -124,7 +124,7 @@
                     th.bg-color-6.text-white Unidad en SI
                     th.bg-color-6.text-white Símbolo
                 tbody
-                  tr
+                  tr.bg-color-white
                     td Longitud
                     td metro
                     td m
@@ -132,7 +132,7 @@
                     td Masa
                     td kilogramo
                     td kg
-                  tr
+                  tr.bg-color-white
                     td Tiempo
                     td segundo
                     td s
@@ -140,7 +140,7 @@
                     td Intensidad de corriente eléctrica
                     td amperio
                     td A
-                  tr
+                  tr.bg-color-white
                     td Temperatura termodinámica
                     td kelvin
                     td K
@@ -148,7 +148,7 @@
                     td Cantidad de sustancia
                     td mol
                     td mol
-                  tr
+                  tr.bg-color-white
                     td Intensidad luminosa
                     td candela
                     td cd
