@@ -38,8 +38,7 @@
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
 
-.banner-interno__titulo__icono i
-  color: $color-primario
+
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
@@ -55,8 +54,120 @@ figcaption
   &-1
     background-color: #E9E7F0
   &-2
-    background-color: #DAE1E2
+    background-color: #FFE69B
   &-3
-    background-color: #EFEAE8
+    background-color: #D5D1E2
   &-4
-    background-color: #FAE2DE
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(233, 242, 243, 1) 30%, rgba(233, 242, 243, 1) 70%, rgba(255, 255, 255, 1) 100%)
+  &-5
+    color: #7B297D !important
+  &-6
+    background-color: #7B297D
+  &-7
+    background-color: #EFEFEF
+  &-8
+    background-color: #352074
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
+
+// Full Width Background
+.bg-full-width, .bg-full-width-2
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width
+  background-size: cover
+.bg-full-width-2
+  background-size: contain !important
+
+.bg-fondo
+  //&-1
+    background-image: url("../assets/curso/bg1.svg") !important
+    background-position: bottom
+    background-repeat: no-repeat
+    background-size: cover
+  //&-2
+    background-image: url("../assets/curso/bg2.svg") !important
+    background-position: bottom
+    background-repeat: no-repeat
+    background-size: cover
+  &-slider
+    background-image: url("../assets/curso/bg-slider.png") !important
+    background-position: bottom
+
+.pst
+  position: absolute
+  top: 8%
+  left: 51%
+  &-2
+    position: absolute
+    top: 59%
+    left: -8%
+  &-3
+    ///////////////TABLAS/////////////////// 
+    table td
+      text-align: start !important
+    th, td, table thead th, .tabla-a th 
+      border: 2px solid #B5B5B5
+    table
+      table-layout: auto
+  
+.tarjeta-avatar img
+  width: 74px
+  top: 20%
+.tarjeta-avatar .tarjeta
+  width: 100%
+  padding-top: 20px !important
+  border-radius: 0
+
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #E2E0EB
+  border: #E2E0EB
+.slyder-a__bullets__item--active
+  background-color: #ADA5C7
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #01FEED
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #7B297D
+  border-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 5px
+  width: 58px
+  bottom: 0
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 50px
+  color: white
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #01FEED !important
+.acordion__activo
+  background-color: #FEDDFF !important
+
+.acordion__titulo 
+  h3
+    color: white !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
