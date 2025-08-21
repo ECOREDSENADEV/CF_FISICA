@@ -47,7 +47,7 @@
                     p.mb-0.text-white <b>F</b> es la fuerza neta aplicada sobre el objeto (en newtons, N).
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-.text-white <b>m</b> es la masa del objeto (en kilogramos, kg).
+                    p.mb-0.text-white <b>m</b> es la masa del objeto (en kilogramos, kg).
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-11
                     p.mb-0.text-white <b>a</b> es la aceleración producida (en metros por segundo al cuadrado, m/s²).
@@ -129,7 +129,7 @@
                 p.mb-0.text-white <b>I</b> es la inercia rotacional.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-11
-                p.mb-.text-white <b>m</b> es la masa del cuerpo.
+                p.mb-0.text-white <b>m</b> es la masa del cuerpo.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-11
                 p.mb-0.text-white <b>r</b> o <b>R</b> es la distancia de la masa al eje de rotación.
@@ -175,7 +175,7 @@
                     p.mb-0.text-white <b>F</b> es la fuerza de atracción gravitacional entre los cuerpos.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-.text-white <b>m₁</b> y <b>m₂</b> son las masas de los cuerpos que interactúan.
+                    p.mb-0.text-white <b>m₁</b> y <b>m₂</b> son las masas de los cuerpos que interactúan.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-11
                     p.mb-0.text-white <b>r</b> es la distancia entre los centros de masa de ambos cuerpos.

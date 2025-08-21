@@ -21,7 +21,7 @@
           h5 Figura 1.
           span Trayectoria de una partícula (P) en el plano (x, y, z).
         figure
-          img(src="@/assets/curso/tema2/2.svg", data-aos="zoom-in")
+          img(src="@/assets/curso/tema2/2.svg", data-aos="zoom-in", alt="Diagrama tridimensional con ejes x, y y z que representa la trayectoria curva de una partícula P y un vector de posición r desde el origen hasta la partícula.")
     
     separador
     
@@ -199,7 +199,7 @@
               h5 Figura 2.
               span Descripción del desplazamiento de una partícula desde el punto 0 al punto A y luego del punto A al punto B.
             figure
-              img(src="@/assets/curso/tema2/17.svg", data-aos="zoom-in")
+              img(src="@/assets/curso/tema2/17.svg", data-aos="zoom-in", alt="Diagrama en el plano cartesiano xy que representa el desplazamiento de una partícula desde el origen hasta el punto A y posteriormente hasta el punto B, con vectores y distancias.")
 
         separador
         
@@ -261,7 +261,7 @@
               h5 Figura 3.
               span Movimiento de una partícula que desacelera hasta alcanzar velocidad cero (v=0).
             figure
-              img(src="@/assets/curso/tema2/19.svg", data-aos="zoom-in")
+              img(src="@/assets/curso/tema2/19.svg", data-aos="zoom-in", alt="Gráfica de velocidad contra tiempo que muestra una partícula con velocidad inicial v0 que disminuye linealmente hasta alcanzar velocidad cero. ")
 
         separador
         
@@ -397,7 +397,7 @@
     .row.mb-5
       .col-lg-6.mb-3.mb-lg-0
         figure
-          img(src="@/assets/curso/tema2/30.svg", data-aos="zoom-in")
+          img(src="@/assets/curso/tema2/30.svg", data-aos="zoom-in", alt="Ilustración de un jugador dejando caer un balón desde un acantilado, con representación de la caída vertical de la pelota, el eje de posición x, la velocidad inicial v0 hacia abajo y la aceleración de la gravedad g. ")
       .col-lg-6
         p Para analizar el comportamiento del cuerpo durante la caída libre y calcular variables como la velocidad, posición y tiempo, se utilizan las siguientes ecuaciones de referencia:
         .bg-color-9.text-white.px-4.py-3.mb-3
@@ -478,7 +478,7 @@
           h5 Figura 5.
           span Movimiento de proyectil
         figure
-          img(src="@/assets/curso/tema2/33.svg", data-aos="zoom-in")
+          img(src="@/assets/curso/tema2/33.svg", data-aos="zoom-in", alt="Diagrama de un tiro parabólico en el plano cartesiano xy que presenta  la trayectoria curva del proyectil, sus componentes de velocidad horizontal y vertical, la altura máxima h y el alcance l.")
       .col-lg-4.order-lg-1
         .bg-color-9.text-white.p-5.mb-3
           h4 Velocidad: 
@@ -545,7 +545,7 @@
               h5 Figura 6.
               span Movimiento circular uniforme
             figure
-              img(src="@/assets/curso/tema2/34.svg", data-aos="zoom-in")
+              img(src="@/assets/curso/tema2/34.svg", data-aos="zoom-in", alt="Diagrama tridimensional de movimiento circular que muestra un punto A girando en torno al eje z.")
 
 
 
