@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Elipse_12115" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1188955" data-name="Grupo 1188955" transform="translate(-439.051 -855)">
+    <g id="Grupo_1188930" data-name="Grupo 1188930" transform="translate(-306.73 -2991)">
+      <g id="Grupo_1181949" data-name="Grupo 1181949" transform="translate(754.781 3852)">
+        <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_12115)">
+          <g id="Elipse_12115-2" data-name="Elipse 12115" transform="translate(9 6)" fill="#ffe69b" stroke="#b18603" stroke-width="2">
+            <circle cx="37" cy="37" r="37" stroke="none"/>
+            <circle cx="37" cy="37" r="36" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Main" transform="translate(456.98 870.039)">
+      <rect id="Rectángulo_411818" data-name="Rectángulo 411818" width="52" height="7" rx="3" transform="translate(1 38.961)" fill="#c18678"/>
+      <circle id="Elipse_12418" data-name="Elipse 12418" cx="8.5" cy="8.5" r="8.5" transform="translate(4 19.961)" fill="#f855fc"/>
+      <path id="Trazado_1053430" data-name="Trazado 1053430" d="M9.835,32.423,6.223,36.035A8.007,8.007,0,0,1,5.49,34.4l3.163-3.163a.836.836,0,1,1,1.182,1.182Z" transform="translate(-0.752 -3.351)" fill="#2b4d66"/>
+      <path id="Trazado_1053431" data-name="Trazado 1053431" d="M16.121,32.423,9.579,38.965A8.058,8.058,0,0,1,8.23,37.95l6.709-6.709a.836.836,0,1,1,1.182,1.182Z" transform="translate(-1.212 -3.351)" fill="#2b4d66"/>
+      <ellipse id="Elipse_12419" data-name="Elipse 12419" cx="8" cy="8.5" rx="8" ry="8.5" transform="translate(33 19.961)" fill="#f855fc"/>
+      <path id="Trazado_1053432" data-name="Trazado 1053432" d="M43.835,32.423l-3.613,3.613A8.007,8.007,0,0,1,39.49,34.4l3.163-3.163a.836.836,0,1,1,1.182,1.182Z" transform="translate(-6.451 -3.351)" fill="#2b4d66"/>
+      <path id="Trazado_1053433" data-name="Trazado 1053433" d="M50.121,32.423l-6.543,6.543A8.058,8.058,0,0,1,42.23,37.95l6.709-6.709a.836.836,0,1,1,1.182,1.182Z" transform="translate(-6.91 -3.351)" fill="#2b4d66"/>
+      <path id="Trazado_1053436" data-name="Trazado 1053436" d="M50.112,45H3.5A2.5,2.5,0,0,0,1,47.5v1.665a2.5,2.5,0,0,0,2.5,2.5H50.112a2.5,2.5,0,0,0,2.5-2.5V47.5A2.5,2.5,0,0,0,50.112,45Zm.832,4.162a.834.834,0,0,1-.832.832H3.5a.834.834,0,0,1-.832-.832V47.5a.833.833,0,0,1,.832-.832H50.112a.833.833,0,0,1,.832.832Z" transform="translate(0 -5.698)"/>
+      <path id="Trazado_1053437" data-name="Trazado 1053437" d="M24.306,15.995H3.84L5.749,17.9a.832.832,0,1,1-1.177,1.177l-3.329-3.33a.836.836,0,0,1,0-1.178l3.329-3.329a.832.832,0,1,1,1.177,1.177L3.84,14.33H24.306a.832.832,0,0,1,0,1.665Z" transform="translate(7.106 -2)"/>
+      <path id="Trazado_1053438" data-name="Trazado 1053438" d="M13.324,22a8.324,8.324,0,1,0,8.324,8.324A8.324,8.324,0,0,0,13.324,22Zm0,14.983a6.611,6.611,0,0,1-3.064-.753l5.317-5.318A.832.832,0,1,0,14.4,29.736L8.873,35.263a6.686,6.686,0,0,1-1.5-1.971l2.379-2.379a.832.832,0,1,0-1.177-1.177L6.78,31.529a6.657,6.657,0,1,1,6.544,5.454Z" transform="translate(-0.67 -1.843)"/>
+      <path id="Trazado_1053439" data-name="Trazado 1053439" d="M47.324,22a8.324,8.324,0,1,0,8.324,8.324A8.324,8.324,0,0,0,47.324,22Zm0,14.983a6.611,6.611,0,0,1-3.064-.753l5.317-5.318A.832.832,0,1,0,48.4,29.736l-5.527,5.527a6.686,6.686,0,0,1-1.5-1.971l2.379-2.379a.832.832,0,1,0-1.177-1.177L40.78,31.529a6.657,6.657,0,1,1,6.544,5.454Z" transform="translate(-6.368 -1.843)"/>
+      <path id="Trazado_1053440" data-name="Trazado 1053440" d="M34.832,15.994H55.3L53.389,17.9a.832.832,0,1,0,1.177,1.177L57.9,15.751a.836.836,0,0,0,0-1.178l-3.329-3.329a.832.832,0,1,0-1.177,1.177L55.3,14.33H34.832a.832.832,0,0,0,0,1.665Z" transform="translate(-11.305 -2)"/>
+    </g>
+  </g>
+</svg>
