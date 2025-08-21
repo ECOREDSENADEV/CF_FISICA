@@ -36,10 +36,10 @@
           .col-lg-8
             .bg-color-3.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-xl-auto.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema2/3.png', alt='')
-                .col-lg
+                .col-xl
                   .p-4
                     p.mb-0(data-aos="fade-up") El sistema referenciado depende del punto de observación. Una persona que conduce un automóvil está en movimiento relativo respecto a un observador fijo, pero estará en reposo relativo respecto a quien se encuentre dentro del vehículo.
         
@@ -180,11 +180,11 @@
         .row.justify-content-center.mb-5
           .col-lg-6
             .row.bg-color-9.text-white.p-5
-              .col-lg-6
+              .col-md-6
                 p.mb-0 x=x<sub>0</sub> +v*t
                 p.mb-0 v=v<sub>0</sub>=cte
                 p.mb-0 a=0
-              .col-lg-6
+              .col-md-6
                 p Donde:
                 p.mb-0 x = posición final
                 p.mb-0 x0 = posición inicial
@@ -212,10 +212,10 @@
       .col-lg-8
         .bg-color-3.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-xl-auto.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema2/18.svg', alt='')
-            .col-lg
+            .col-xl
               .p-4
                 ul.lista-ul--color
                   li.mb-0.d-flex
@@ -241,11 +241,11 @@
         .row.justify-content-center.mb-5
           .col-lg-6
             .row.bg-color-9.text-white.p-5
-              .col-lg-6
+              .col-md-6
                 p.mb-0 v= v<sub>0</sub> + a*t
                 p.mb-0 x= x<sub>0</sub> + v<sub>0</sub> * t + 1/2a * t2
                 p.mb-0 a=cte.
-              .col-lg-6
+              .col-md-6
                 p Donde:
                 p.mb-0 v= velocidad final
                 p.mb-0 v<sub>0</sub> = velocidad inicial
@@ -283,11 +283,11 @@
           img(src="@/assets/curso/tema2/20.png", data-aos="zoom-in")
       .col-lg-6.order-lg-1
         .row.bg-color-9.text-white.p-5
-          .col-lg-6
+          .col-md-6
             p.mb-0 a = - g
             p.mb-0 h = h<sub>0</sub> - ½ gt²
             p.mb-0 v² = 2gh
-          .col-lg-6
+          .col-md-6
             p Donde:
             p.mb-0 h = altura final
             p.mb-0 h<sub>0</sub> = altura inicial
@@ -426,10 +426,10 @@
           .col-lg-8
             .bg-color-3.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-xl-auto.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema2/31.svg', alt='')
-                .col-lg
+                .col-xl
                   .p-4
                     ul.lista-ul--color
                       li.mb-0.d-flex
@@ -450,10 +450,10 @@
           .col-lg-8
             .bg-color-3.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0.order-2
+                .col-xl-auto.mb-3.mb-lg-0.order-2
                   figure
                     img(src='@/assets/curso/tema2/32.svg', alt='')
-                .col-lg.order-1
+                .col-xl.order-1
                   .p-4
                     ul.lista-ul--color
                       li.mb-0.d-flex

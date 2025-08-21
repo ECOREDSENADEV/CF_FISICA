@@ -24,7 +24,7 @@
         p.mb-0 Esta disciplina se apoya en la observación, la medición y la formulación de leyes que permiten predecir resultados en situaciones concretas. Para lograrlo, se utilizan magnitudes físicas que representan propiedades medibles de los cuerpos, así como sistemas de unidades que estandarizan estas mediciones. Gracias a este enfoque, la física se convierte en una herramienta fundamental para la ciencia y la tecnología, al ofrecer bases sólidas para la comprensión del mundo material.
     
     .row.align-items-center
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
       .col-lg
         p.mb-0 El aprendizaje de la física fomenta el pensamiento analítico y la resolución de problemas, al conectar conceptos teóricos con situaciones cotidianas y aplicaciones prácticas. Desde el estudio del movimiento y las fuerzas hasta la termodinámica, el electromagnetismo y las ondas, cada uno de sus campos contribuye a explicar fenómenos esenciales para la vida y el desarrollo tecnológico, integrando conocimiento que impulsa la innovación y el progreso científico.

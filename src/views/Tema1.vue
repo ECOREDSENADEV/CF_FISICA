@@ -69,13 +69,13 @@
           .col-lg-6
             .bg-color-3.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto
+                .col-xl-auto
                   figure
                     img(src='@/assets/curso/tema1/6.png', alt='')
-                .col-lg.mb-3.mb-lg-0
+                .col-xl.mb-3.mb-lg-0
                   .p-4
                     .row
-                      .col-lg-6
+                      .col-md-6
                         ul.lista-ul--color
                           li.mb-0.d-flex
                             i.fas.fa-circle-check.bg-color-5
@@ -92,7 +92,7 @@
                           li.mb-0.d-flex
                             i.fas.fa-circle-check.bg-color-5
                             p.mb-0 Fuerza.
-                      .col-lg-6
+                      .col-md-6
                         ul.lista-ul--color
                           li.mb-0.d-flex
                             i.fas.fa-circle-check.bg-color-5
